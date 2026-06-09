@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
 
 # Load the cleaned datasets
 weather = pd.read_csv('../data/processed/weather_daily_cleaned.csv')
