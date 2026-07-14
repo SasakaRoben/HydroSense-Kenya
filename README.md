@@ -54,12 +54,6 @@ seaborn==0.13.2
 
 ```
 
-
-### `README.md`
-
-This is your main project documentation file. Copy this markdown text into your root folder:
-
-```markdown
 # HydroSense-Kenya: Advanced Scientific Computing Framework
 
 This repository hosts the data pipeline, numerical calculation suites, and predictive modeling frameworks engineered for the **ICS 2207 Scientific Computing Capstone Project**. The system couples real-world IoT soil metrics with daily atmospheric datasets to simulate water-balance dynamics and manage operational agricultural risks.
